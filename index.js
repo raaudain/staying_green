@@ -7,3 +7,5 @@
   // bot doesn't work with VPN
   // remove some commented commented
   
+// Volunteering
+  // clean XML file
