@@ -15,3 +15,4 @@
   // brain storm
   // create cache generator
   // look over php code
+  // read over caching code
