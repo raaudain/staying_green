@@ -17,3 +17,4 @@
   // look over php code
   // read over caching code
   // write code to remove invalid case file from case
+  // plan to filter out junk files
