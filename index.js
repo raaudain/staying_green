@@ -22,3 +22,4 @@
   // plan for php to fetch html
   // write out plan
   // wrote code for fetching files
+  // create image compression script
