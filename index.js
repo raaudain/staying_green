@@ -7,6 +7,7 @@
   // bot doesn't work with VPN
   // remove some commented commented
   // update bot login
+  // research new approach for bot
   
 // Volunteering
   // clean XML file
