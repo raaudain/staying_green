@@ -8,6 +8,7 @@
   // remove some commented commented
   // update bot login
   // research new approach for bot
+  // looking into splash
   
 // Volunteering
   // clean XML file
