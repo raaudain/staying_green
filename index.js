@@ -26,3 +26,4 @@
   // wrote code for fetching files
   // create image compression script
   // compressed images
+  // look over index file
