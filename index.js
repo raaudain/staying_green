@@ -27,3 +27,4 @@
   // create image compression script
   // compressed images
   // look over index file
+  // plan on testing index file
