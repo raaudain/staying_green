@@ -28,3 +28,4 @@
   // compressed images
   // look over index file
   // plan on testing index file
+  // fetch cached html file
