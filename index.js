@@ -30,3 +30,4 @@
   // plan on testing index file
   // fetch cached html file
   // minor fixes
+  // test cache code - working and is being used on site
