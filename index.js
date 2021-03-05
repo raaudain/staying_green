@@ -34,3 +34,5 @@
   // displaying files for monitoring php script
   // testing script
   // add comments for script
+  // test script on server
+  
