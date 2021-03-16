@@ -39,3 +39,4 @@
   // fix python script
   // made changes to monitor script
   // fix link issue
+  // fix encoding issue for download script
