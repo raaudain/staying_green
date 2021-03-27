@@ -43,3 +43,4 @@
   // work on sorting events on page
   // work on SQL sorting
   // work on SQL sorting (cont.)
+  // fixed sorting
